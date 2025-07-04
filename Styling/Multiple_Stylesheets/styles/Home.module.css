@@ -1,0 +1,7 @@
+/* Home.module.css */
+
+.div {
+    background: pink url("https://content.codecademy.com/programs/react/images/welcome-to-my-homepage.gif");
+    height: 175px;
+    display: block;
+}
